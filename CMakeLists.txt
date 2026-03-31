@@ -1,3 +1,6 @@
+# External Library Module CMakeLists.txt
+# Example showing how to wrap an external C library
+
 cmake_minimum_required(VERSION 3.14)
 project(CalcModulePlugin LANGUAGES CXX)
 
