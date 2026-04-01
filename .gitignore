@@ -1,7 +1,11 @@
-lgx-result
-lm
-logos
-pm
+# Vendored C library binaries (built by nix, do not commit)
+lib/*.so
+lib/*.dylib
+lib/*.a
+
+# Nix build output
 result
-modules
-*.lgx
+result-*
+
+# CMake build directory
+build/
