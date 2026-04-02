@@ -1,6 +1,6 @@
 # Nix build output
 result
-result-lgx-*
+result-*
 
 # CMake build directory
 build/
